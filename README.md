@@ -1,7 +1,5 @@
 # Introduction 
-This Project is for self learning and self enrichment of the qa team members
+This Project can be used for professional automation testing.
 
 # Getting Started
-The project is designed for practice in automation testing and project management skills.
-
-# Testing Pipeline
+The project is designed for practice in automation testing.

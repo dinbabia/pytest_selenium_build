@@ -15,7 +15,6 @@ class Test_Demo(BaseTest):
         print("Setting up VPN connection")
 
     def test_demo_run(self):
-
         # Setting up VPN or Database if needed
         self.setup_connection()
 
